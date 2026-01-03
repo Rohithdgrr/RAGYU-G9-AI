@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="G9 AI Banner" src="" />
+<img width="1200" height="475" alt="G9 AI Banner" src="C:\SRU\GITHUB CLONES\g9-ai\assets\icon.svg" />
 </div>
 
 # G9 AI - VS Code Extension
